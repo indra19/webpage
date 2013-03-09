@@ -1,0 +1,21 @@
+html{
+	background-image: url(Colors_by_panic_tape.jpg);
+	background-position: center;	
+}
+
+img src{
+	border: 3px;
+	border-color: blue;
+}
+
+h1{
+	color: white;
+}
+
+h3{
+	color: black;
+}
+
+table{
+	color: blue;
+}
